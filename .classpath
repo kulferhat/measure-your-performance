@@ -2,8 +2,8 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/release/external/apache/jakarta/commons/io/2.4/lib/commons-io-2.4.jar"/>
-	<classpathentry kind="lib" path="/release/external/apache/jakarta/commons/lang/2.6/lib/commons-lang-2.6.jar" sourcepath="/home/ferhatk/.m2/repository/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar"/>
-	<classpathentry kind="lib" path="/home/ferhatk/Downloads/jnativehook/JNativeHook/jar/JNativeHook.jar"/>
+	<classpathentry kind="lib" path="ext-lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="ext-lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="ext-lib/JNativeHook.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
